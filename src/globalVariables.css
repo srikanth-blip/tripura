@@ -1,0 +1,66 @@
+ 
+ /*--IBM Plex Sans sources end-- */
+ @font-face {
+    font-family: "IBM Plex Sans";
+    src: url(./assets/fonts/IBM_Plex_Sans/IBMPlexSans-Light.ttf);
+    font-weight: initial;
+}
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(./assets/fonts/IBM_Plex_Sans/IBMPlexSans-Medium.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(./assets/fonts/IBM_Plex_Sans/IBMPlexSans-Thin.ttf);
+    font-weight: 100;
+}
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(./assets/fonts/IBM_Plex_Sans/IBMPlexSans-SemiBold.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "IBM Plex Sans";
+    src: url(./assets/fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf);
+    font-weight: 900;
+}
+ /* poppins fonts sources  */
+
+ @font-face{
+    font-family: "poppins";
+    src: url(./assets/fonts/Poppins/Poppins-Regular.ttf);
+    font-weight: 100;
+}
+@font-face{
+    font-family: "poppins";
+    src: url(./assets/fonts/Poppins/Poppins-SemiBold.ttf);
+    font-weight: 400;
+}
+@font-face{
+    font-family: "poppins";
+    src: url(./assets/fonts/Poppins/Poppins-Bold.ttf);
+    font-weight: 600;
+}
+@font-face{
+    font-family: "poppins";
+    src: url(./assets/fonts/Poppins/Poppins-ExtraBold.ttf);
+    font-weight: 900;
+}
+:root {
+
+    /* Colors: */
+    --white-color-ffffff: #FFFFFF;
+    --unnamed-color-f0f0f0: #F0F0F0;
+    --light-gray-color-cccccc: #CCCCCC;
+    --gray-color-4e5a62: #4E5A62;
+    --black-color-000000: #000000;
+    --unnamed-color-f9f6f4: #F9F6F4;
+    --primary-light-color-76bf4e: #76BF4E;
+    --primary-color: #4E9321;
+    
+    /* Font/text values */
+    --ff-font-family-ibm-plex-sans:"IBM Plex Sans";
+    --ff-font-family-poppins: "poppins";
+    }
+    

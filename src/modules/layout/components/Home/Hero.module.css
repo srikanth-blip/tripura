@@ -1,0 +1,23 @@
+.slider{
+    background-image: url(../../../../assets/img/Slider.png);
+    background-size: cover;
+    background-position: center;
+}
+.slider .hero-text-info-cont {
+    padding: 9rem 0;
+}
+.slider .hero-title {
+    letter-spacing: 1.28px;
+    font-weight: 600;
+    max-width: 442px;
+    font-size: 2.7rem;
+}
+.slider .hero-sub-info-text {
+    font-weight: 100;
+    max-width: 584px;
+    line-height: 25px;
+    margin: 2rem 0rem 3rem 0rem;
+}
+.slider .slick-dots{
+    background-color: violet;
+}

@@ -1,0 +1,82 @@
+.product-details-cont {
+    background: #FBFFE6 0% 0% no-repeat padding-box;
+    padding-top: 8rem;
+    margin-top: -7rem;
+}
+.product-details-cont{
+    background: #FBFFE6 0% 0% no-repeat padding-box;
+    padding-top: 8rem;
+    margin-top: -7rem;
+}
+.preview-product-des-cont {
+    padding-left: 4rem;
+}
+h2.preview-product {
+    font-size: 1.7rem;
+}
+span.preview-product-code {
+    font-family: var(--ff-font-family-ibm-plex-sans);
+    font-size: 0.9rem;
+}
+.preview-product-price,
+.preview-product-price span {
+    font-family: var(--ff-font-family-ibm-plex-sans);
+    margin: 0.8rem 0rem;
+    color: #76BF4E;
+    font-weight: bold;
+}
+ul.preview-product-des-text {
+    list-style: disc;
+    padding-left: 1.6rem;
+}
+
+ul.preview-product-des-text li {
+    font-family: var(--ff-font-family-ibm-plex-sans);
+    letter-spacing: 0.24px;
+    line-height: 28px;
+    margin: 2rem 01rem;
+}
+.preview-product-quintity{
+    display: flex;
+}
+span.quntity-name {
+    font-family: var(--ff-font-family-ibm-plex-sans);
+    display: block;
+    font-size: 0.7rem;
+    margin-bottom: 0.3rem;
+}
+.preview-product-quintity {
+    display: flex;
+    gap: 7rem;
+}
+span.quntity-in-num {
+    background: #fff;
+    border: 1px solid;
+    padding: 2px 15px;
+}
+.net-quntity select {
+    padding: 0.4rem 0.2rem;
+    width: 116px;
+    border-radius: 0;
+}
+.preview-pro-add-cart-btn {
+     font-family: var(--ff-font-family-ibm-plex-sans);
+     background: #4E9321 0% 0% no-repeat padding-box;
+     border-radius: 8px;
+     color: #fff;
+     padding: 6px 51px;
+     border: 0;
+     font-weight: normal;
+     margin-top: 3rem;
+     display: inline-block;
+     cursor: pointer;
+}
+.net-quntity select {
+    padding: 0.4rem 0.2rem;
+    width: 116px;
+    border-radius: 0;
+}
+.product-preview-img img {
+    width: 540px !important;
+    height: 540px !important;
+}

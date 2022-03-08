@@ -1,0 +1,19 @@
+.check-out-form-div {
+    padding: 2rem;
+    background: var(--unnamed-color-f9f6f4) 0% 0% no-repeat padding-box;
+}
+.check-out-form .form-group input[type='submit']{
+    background: #4E9321 0% 0% no-repeat padding-box;
+    color: #fff;
+    border: 0;
+    font-weight: 500;
+    padding: .4rem 3rem;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.check-out-form .form-group {
+    margin-bottom: 1rem;
+}
+.check-out-form .form-group label{
+    margin-bottom: 0.5rem;
+}

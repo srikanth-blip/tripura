@@ -1,0 +1,13 @@
+.title {
+    text-align: center;
+    font-size: 1.8rem;
+    position: relative;
+    /* z-index: -1; */
+}
+.title img {
+    position: absolute;
+    bottom: -17px;
+    left: 50%;
+    height: 8px;
+    transform: translateX(-50%);
+}

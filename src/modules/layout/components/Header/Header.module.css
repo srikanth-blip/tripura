@@ -1,0 +1,55 @@
+.header-main-cont{
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 11;
+    width: 100%;
+    background: var(--unnamed-color-ffffff) 0% 0% no-repeat padding-box;
+    border-bottom: 7px solid #76BF4E;
+}   
+.header-main-cont .navbar__  .navbar__brand .logo-img{
+    max-width: 170px;
+    margin-top: -3rem;
+}
+.navbar__nav {
+justify-content: space-evenly;
+width: 100%;
+}
+.top-bar {
+    display: flex;
+    width: 100%;
+    justify-content: flex-end;
+}
+.contact-info ul li {
+    display: inline-block;
+    padding: 0rem 0.5rem;
+}
+.contact-info ul li a {
+    opacity: 0.8;
+    font-family: var(--ff-font-family-ibm-plex-sans);
+    letter-spacing: 0.24px;
+    color: var(--unnamed-color-4e5a62);
+    font-size: 11px;
+    font-weight: normal;
+}
+.contact-info ul li img {
+    margin-right: 6px;
+}
+.top-bar-social ul li {
+    display: inline-block;
+    padding: 0px 5px;
+}
+.navbar__top_cont{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+}
+.cart-icon, .checkout-icon {
+    width: 25px;
+    height: 25px;
+}
+.cart-icon {
+    position: relative;
+    top: 3px;
+}

@@ -1,0 +1,16 @@
+.products-list-item ul li{
+    padding: 1rem 3.5rem;
+    border: 1px solid #CCCCCC;
+    margin: 0rem 0.3rem;
+    background: #fff;
+    display: block;
+}
+.products-list-item ul li.active{
+    border: 4px solid #76BF4E;
+    transition: all .3s ease-in-out;
+    cursor: pointer;
+}
+.products-list-item ul li img{
+    width: 50px !important;
+    margin: 0 auto;
+}
